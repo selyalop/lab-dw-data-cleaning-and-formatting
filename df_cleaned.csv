@@ -1,5 +1,4 @@
 customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
-RB50392,Washington,F,Master,588174,0,1000,0,Personal Auto,Four-Door Car,2
 QZ44356,Arizona,F,Bachelor,697953,0,94,0,Personal Auto,Four-Door Car,1131
 AI49188,Nevada,F,Bachelor,1288743,48767,108,0,Personal Auto,Two-Door Car,566
 WW63253,California,M,Bachelor,764586,0,106,0,Corporate Auto,SUV,529
@@ -10,134 +9,18 @@ CF85061,Arizona,M,Master,721610,0,101,0,Corporate Auto,Four-Door Car,363
 DY87989,Oregon,M,Bachelor,2412750,14072,71,0,Corporate Auto,Four-Door Car,511
 BQ94931,Oregon,F,College,738817,28812,93,0,Special Auto,Four-Door Car,425
 SX51350,California,M,College,473899,0,67,0,Personal Auto,Four-Door Car,482
-VQ65197,California,F,College,819719,0,110,0,Personal Auto,SUV,528
-DP39365,California,F,Master,879879,77026,110,2,Corporate Auto,Four-Door Car,472
-SJ95423,Arizona,F,High School or Below,881901,99845,110,1,Corporate Auto,SUV,528
-IL66569,California,F,College,538443,83689,70,2,Corporate Auto,Four-Door Car,307
-BW63560,Oregon,F,Bachelor,746313,24599,64,1,Corporate Auto,Four-Door Car,42
-FV94802,Nevada,F,High School or Below,256686,25049,67,0,Personal Auto,Two-Door Car,454
-OE15005,Cali,F,College,394524,28855,101,0,Personal Auto,SUV,647
-WC83389,Oregon,F,College,571033,51148,72,0,Personal Auto,Four-Door Car,308
-FL50705,California,F,High School or Below,816261,66140,101,0,Corporate Auto,Four-Door Car,484
-ZK25313,Oregon,F,High School or Below,287205,57749,74,0,Personal Auto,Two-Door Car,355
 QK46697,Washington,M,Bachelors,617710,61040,79,1,Personal Auto,Two-Door Car,20
-YH23384,Arizona,F,Bachelor,2412750,14072,71,0,Personal Auto,Four-Door Car,511
-TZ98966,Nevada,F,Bachelor,245019,0,73,3,Corporate Auto,Four-Door Car,554
-HM55802,California,F,Bachelor,239210,17870,61,0,Corporate Auto,Four-Door Car,439
-FS42516,Oregon,F,College,580206,97541,72,0,Personal Auto,Four-Door Car,389
-US89481,California,F,Bachelor,394637,0,111,0,Personal Auto,Four-Door Car,799
 HS14476,Washington,M,College,916206,29723,80,0,Personal Auto,Four-Door Car,20
-GE62437,AZ,F,College,1290256,86584,111,2,Personal Auto,Four-Door Car,532
-EJ77678,Oregon,F,Master,323536,75690,80,1,Personal Auto,Four-Door Car,384
-SV85652,Arizona,F,College,245458,23158,63,1,Personal Auto,Four-Door Car,322
-UL64533,Nevada,F,High School or Below,1897545,65999,237,0,Corporate Auto,Luxury SUV,615
-PF41800,California,F,Bachelor,471532,0,65,0,Personal Auto,Four-Door Car,308
 HD95276,Washington,F,College,473787,0,130,0,Personal Auto,SUV,23
-SK67821,Oregon,F,Bachelor,493291,37260,62,0,Corporate Auto,Four-Door Car,15
-YV55495,Arizona,F,High School or Below,574422,68987,71,0,Personal Auto,Four-Door Car,204
-KY38074,California,F,Bachelor,1389173,42305,117,0,Personal Auto,Four-Door Car,561
-DM79012,Oregon,F,Master,738097,65706,91,0,Personal Auto,Four-Door Car,436
-CM61827,Oregon,F,Bachelor,309003,0,90,0,Personal Auto,Two-Door Car,648
-WC35801,Arizona,F,High School or Below,252163,53243,66,2,Personal Auto,Four-Door Car,157
-QG25316,Nevada,F,High School or Below,265206,0,70,1,Corporate Auto,Two-Door Car,484
-MB98372,Oregon,F,College,277104,50071,71,0,Corporate Auto,Two-Door Car,18
-IL19217,California,F,Bachelor,393900,60021,99,0,Personal Auto,Four-Door Car,882
-SR38658,Arizona,F,High School or Below,1223187,43244,103,0,Personal Auto,Sports Car,494
 YD87931,Washington,M,Doctor,495165,46896,35354,1,Personal Auto,Four-Door Car,31
-HG65722,Oregon,F,Doctor,1281910,10105,172,3,Personal Auto,SUV,0
-BU27331,Arizona,F,Bachelor,446851,0,73,3,Personal Auto,Four-Door Car,579
-XM45289,Oregon,F,High School or Below,551434,23218,71,0,Personal Auto,Two-Door Car,447
-KP34198,California,F,Bachelor,334387,0,92,0,Corporate Auto,Four-Door Car,529
-SH90947,Arizona,F,High School or Below,229447,0,62,0,Personal Auto,Four-Door Car,313
-WE95729,Oregon,F,College,3670742,24804,104,0,Personal Auto,SUV,593
-PY51963,California,F,Bachelor,3347334,33190,106,0,Corporate Auto,SUV,508
-RB69909,Nevada,F,High School or Below,798343,36014,69,3,Special Auto,Four-Door Car,173
 NW21079,Washington,F,Master,487938,67163,61,2,Personal Auto,Two-Door Car,33
-FR46645,California,F,Bachelor,429399,16701,113,0,Personal Auto,Four-Door Car,831
-SY17488,Arizona,F,College,716439,46623,91,0,Corporate Auto,Four-Door Car,436
-AP67935,California,F,College,761951,64749,64,0,Special Auto,Four-Door Car,302
-FS37417,Arizona,F,High School or Below,395800,0,101,0,Personal Auto,SUV,484
-ML29312,Oregon,F,High School or Below,449949,16969,124,2,Personal Auto,SUV,704
-UB61619,Oregon,F,Master,405956,11621,108,0,Personal Auto,Four-Door Car,518
-CD86811,Arizona,F,Bachelor,445811,17622,65,1,Personal Auto,Four-Door Car,312
-RU83859,California,F,Bachelor,811033,11489,105,0,Personal Auto,Two-Door Car,504
-FG63582,Oregon,F,Bachelor,333976,0,94,0,Personal Auto,Two-Door Car,863
-NN71951,California,F,High School or Below,2426101,66525,100,0,Personal Auto,SUV,104
-WB37082,Arizona,F,Bachelor,661397,0,63,0,Personal Auto,Four-Door Car,676
-SM52139,WA,F,College,293069,33663,73,0,Personal Auto,Four-Door Car,350
-FL82372,Oregon,F,College,867219,22547,112,0,Corporate Auto,SUV,537
-DP45816,AZ,F,High School or Below,1163866,61486,97,0,Personal Auto,Two-Door Car,465
-GW33762,Oregon,F,Bachelor,684615,0,95,0,Personal Auto,Two-Door Car,456
-RZ33670,California,F,College,1172777,29879,102,0,Personal Auto,Four-Door Car,500
-PY70169,Oregon,F,High School or Below,2264383,93011,113,0,Personal Auto,SUV,281
-MO91628,Oregon,F,Master,261447,65186,65,0,Personal Auto,Two-Door Car,5
-HW87852,Oregon,F,Master,245175,26840,64,2,Personal Auto,Four-Door Car,307
-HB20453,Oregon,F,Bachelor,678127,0,104,1,Personal Auto,Sports Car,982
-BN87372,Oregon,F,Bachelor,497480,75644,65,3,Personal Auto,Two-Door Car,467
-YX23800,Oregon,F,Bachelor,859160,38984,73,0,Personal Auto,Four-Door Car,350
-DZ87709,Oregon,F,High School or Below,559216,71811,71,0,Personal Auto,Four-Door Car,29
-XW13033,Nevada,F,College,800947,20961,67,0,Personal Auto,Four-Door Car,321
-SP81997,Washington,F,Master,588174,41275,96,0,Personal Auto,Four-Door Car,41
-OM82309,California,F,Bachelor,5816655,61321,186,1,Personal Auto,Luxury Car,427
-ZU35962,California,F,College,802522,0,77,0,Personal Auto,Two-Door Car,25
-VH85817,California,F,High School or Below,578018,51066,74,0,Personal Auto,Four-Door Car,787
-DT85712,California,F,Doctor,411853,34378,102,0,Personal Auto,SUV,489
-YJ88573,Nevada,F,Master,252307,43072,63,0,Personal Auto,Four-Door Car,302
-SQ19467,Oregon,F,College,655421,25222,90,0,Personal Auto,Four-Door Car,475
 YB66933,Washington,F,Bachelor,538275,77552,68,1,Corporate Auto,Four-Door Car,45
-ET79815,California,F,College,592672,23091,96,5,Personal Auto,Four-Door Car,460
-QC35222,California,F,Bachelor,268347,48269,69,3,Corporate Auto,Four-Door Car,282
-CJ15590,Oregon,F,Bachelor,269518,32720,67,0,Personal Auto,Four-Door Car,321
-OI48267,California,F,College,604702,20396,76,1,Personal Auto,Four-Door Car,364
-JY67916,Oregon,F,College,1317101,21513,119,1,Personal Auto,Two-Door Car,679
 OW15518,Washington,F,College,1595001,0,87,1,Personal Auto,Two-Door Car,46
-CZ33664,Oregon,F,Bachelor,252765,80744,63,0,Corporate Auto,Four-Door Car,11
-WK30175,Oregon,F,Bachelor,267209,52822,67,0,Corporate Auto,Two-Door Car,350
-ON44465,California,F,High School or Below,531329,0,77,1,Personal Auto,Four-Door Car,863
-TV87155,Oregon,F,Bachelor,2094619,69738,74,1,Personal Auto,Four-Door Car,492
-KH48895,AZ,F,Master,837535,17780,109,0,Personal Auto,SUV,132
-NZ30757,California,F,Bachelor,480166,18107,62,0,Personal Auto,Four-Door Car,297
-RI22468,AZ,F,Bachelor,574594,57740,74,3,Personal Auto,Four-Door Car,269
-FZ30935,Oregon,F,College,606611,32627,76,0,Personal Auto,Two-Door Car,380
-UG93476,California,F,College,800230,0,107,0,Personal Auto,SUV,513
-AB96670,California,F,College,239391,0,70,0,Personal Auto,Four-Door Car,425
-XK64261,Oregon,F,Bachelor,476281,65795,62,1,Corporate Auto,Two-Door Car,49
-EV68375,California,F,College,433038,60475,107,0,Personal Auto,Four-Door Car,513
-UN51653,California,F,High School or Below,940272,0,130,0,Personal Auto,SUV,936
-TO96662,Oregon,F,Bachelor,696669,41837,88,0,Personal Auto,Four-Door Car,142
-MR52087,California,F,Bachelor,769406,32303,65,0,Personal Auto,Four-Door Car,45
-DE75225,Oregon,F,High School or Below,871756,0,117,1,Personal Auto,SUV,561
-EP80820,California,F,Bachelor,592874,40531,74,0,Personal Auto,Two-Door Car,30
-GU99037,Oregon,F,College,245297,79898,62,1,Corporate Auto,Four-Door Car,271
-WI57118,California,F,College,670157,56398,85,0,Personal Auto,Four-Door Car,408
 GP39118,Washington,M,High School or Below,499655,71600,63,0,Personal Auto,Two-Door Car,46
-MQ14219,AZ,F,College,849269,27804,109,0,Personal Auto,SUV,784
-KN20603,Oregon,F,Bachelor,771349,45506,66,2,Personal Auto,Four-Door Car,316
 SG20925,Washington,F,Master,518579,99428,6464,1,Personal Auto,Four-Door Car,48
-JI70886,California,F,High School or Below,729006,0,102,1,Corporate Auto,SUV,489
-VF72557,Oregon,F,High School or Below,477294,20993,133,0,Personal Auto,SUV,638
-OX28638,AZ,F,High School or Below,680649,37839,86,0,Personal Auto,Two-Door Car,465
-SK55033,California,F,Bachelor,246978,92711,62,0,Personal Auto,Two-Door Car,368
-OO88645,California,F,College,310392,74665,78,2,Corporate Auto,Four-Door Car,236
 FM14335,Washington,F,College,1048491,61108,89,0,Personal Auto,Four-Door Car,49
-CW82151,California,F,Bachelor,890273,46833,112,0,Personal Auto,Sports Car,64
-DY22043,Oregon,F,High School or Below,549944,88768,68,0,Personal Auto,Two-Door Car,326
-SH36774,California,F,High School or Below,1502359,28262,192,0,Personal Auto,Luxury SUV,921
-EM43724,Nevada,F,Bachelor,250910,33555,63,0,Personal Auto,Four-Door Car,101
-FH85960,Oregon,F,College,3122174,42780,113,1,Personal Auto,Four-Door Car,542
-XA55993,Oregon,F,Master,313350,58850,78,0,Personal Auto,Four-Door Car,143
-GO36627,AZ,F,College,383745,21880,97,0,Special Auto,Four-Door Car,424
-QH48047,Oregon,F,College,1179049,25251,66,0,Personal Auto,Four-Door Car,316
 HS28694,Washington,F,High School or Below,282986,25317,71,0,Personal Auto,Two-Door Car,50
-UH65059,AZ,F,High School or Below,430580,24188,109,0,Personal Auto,Sports Car,523
-FV21968,Nevada,F,Bachelor,597397,41611,74,0,Special Auto,Four-Door Car,113
-QA87025,Oregon,F,Bachelor,567044,28406,72,1,Personal Auto,Four-Door Car,192
-TQ13499,AZ,F,College,473174,69833,118,0,Personal Auto,Four-Door Car,828
-BU44523,AZ,F,High School or Below,802637,0,74,0,Corporate Auto,Four-Door Car,532
-MS41162,AZ,F,High School or Below,402296,0,117,0,Personal Auto,SUV,975
-PU25891,Oregon,F,High School or Below,961831,80536,119,0,Special Auto,Sports Car,53
 LH92841,Washington,F,Bachelors,725595,88891,89,0,Personal Auto,Four-Door Car,50
-SX26335,Oregon,F,College,955292,97732,79,0,Personal Auto,Four-Door Car,289
 AZ95587,AZ,F,Bachelor,1038855,61222,89,0,Special Auto,Four-Door Car,392
 DS81757,Oregon,M,College,247012,0,74,0,Personal Auto,Two-Door Car,721
 OJ94107,AZ,M,Master,561906,50335,140,0,Personal Auto,SUV,456
@@ -448,7 +331,6 @@ YH86390,California,F,Bachelor,481500,25398,64,0,Corporate Auto,Four-Door Car,307
 FY13480,California,Male,High School or Below,627701,0,88,0,Personal Auto,Four-Door Car,633
 YH61661,California,M,High School or Below,826063,33321,105,0,Special Auto,SUV,504
 NL93182,Nevada,M,Bachelor,254945,0,78,0,Corporate Auto,Four-Door Car,845
-LN31673,Washington,F,College,1131808,38923,99,2,Personal Auto,Four-Door Car,115
 WE68644,Oregon,F,Bachelor,380392,20325,100,0,Personal Auto,Sports Car,668
 EZ30498,Oregon,M,Bachelor,863540,13129,117,0,Personal Auto,SUV,700
 QY74517,Oregon,F,High School or Below,551055,0,73,0,Personal Auto,Four-Door Car,525
@@ -987,7 +869,6 @@ DW96592,Cali,M,Bachelor,804487,71391,67,0,Personal Auto,Four-Door Car,284
 MT23134,Oregon,M,High School or Below,532572,0,73,0,Personal Auto,Two-Door Car,496
 BM69081,Arizona,M,Bachelor,694752,0,100,0,Personal Auto,SUV,925
 MB90871,Oregon,F,College,584741,23496,77,0,Special Auto,Four-Door Car,13
-GT62080,Washington,M,High School or Below,588174,55561,63,0,Personal Auto,Four-Door Car,227
 QL77686,Nevada,F,College,472478,23986,119,0,Corporate Auto,SUV,463
 ON77827,Arizona,F,Master,279022,22974,71,0,Personal Auto,Four-Door Car,180
 KP18988,Oregon,F,High School or Below,2153133,0,101,0,Personal Auto,Four-Door Car,484
@@ -1070,4 +951,3 @@ VJ51327,Cali,F,High School or Below,2031499,63209,102,2,Personal Auto,SUV,207
 GS98873,Arizona,F,Bachelor,323912,16061,88,0,Personal Auto,Four-Door Car,633
 CW49887,California,F,Master,462680,79487,114,0,Special Auto,SUV,547
 MY31220,California,F,College,899704,54230,112,0,Personal Auto,Two-Door Car,537
-Unknown,Oregon,F,Bachelor,588174,36234,83,0,Personal Auto,Four-Door Car,354

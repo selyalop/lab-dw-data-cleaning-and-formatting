@@ -6,18 +6,9 @@ def format_data(df):
 
     return df
 
+
 def clean_nulls(df):
-    df["customer"] = df["customer"].fillna("Unknown")
-    df["state"] = df["state"].fillna(df["state"].mode()[0])
-    df["gender"] = df["gender"].fillna(df["gender"].mode()[0])
-    df["education"] = df["education"].fillna(df["education"].mode()[0])
-    df["customer_lifetime_value"] = df["customer_lifetime_value"].fillna(df["customer_lifetime_value"].median())
-    df["income"] = df["income"].fillna(df["income"].median())
-    df["monthly_premium_auto"] = df["monthly_premium_auto"].fillna(df["monthly_premium_auto"].median())
-    df["number_of_open_complaints"] = df["number_of_open_complaints"].fillna(df["number_of_open_complaints"].mode()[0])
-    df["policy_type"] = df["policy_type"].fillna(df["policy_type"].mode()[0])
-    df["vehicle_class"] = df["vehicle_class"].fillna(df["vehicle_class"].mode()[0])
-    df["total_claim_amount"] = df["total_claim_amount"].fillna(df["total_claim_amount"].median())
+    df = df.dropna()
 
     return df
 
